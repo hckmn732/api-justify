@@ -1,6 +1,6 @@
-# Node.js-Register-Login-App
+# API JUSTIFY
 
-This is a user login and registration app using Node.js, Express, Mongoose and express-sessions.
+This is an API Service app using Node.js, Express, Mongoose and JWT.
 
 ## Getting Started
 
@@ -9,6 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 You need to have installed Node.js, NPM and MongoDB in your System.
+You need to change setting of the database in config file
 
 ### Installing
 ```
